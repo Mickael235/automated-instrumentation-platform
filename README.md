@@ -63,11 +63,11 @@ The experimental bench is based on a simple analog circuit under test and two pr
 
 ### Example bench setup
 
-![Measurement bench](assets/images/hardware-bench.jpg)
+![Measurement bench](assets/images/hardware-bench.png)
 
 ### Example RC filter under test
 
-![RC filter test setup](assets/images/hardware-rc-filter.jpg)
+![RC filter test setup](assets/images/hardware-rc-filter.png)
 
 ---
 
